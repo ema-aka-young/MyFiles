@@ -1,4 +1,4 @@
-CONTRACT_ABI = [
+[
 {
 "inputs": [
 {
