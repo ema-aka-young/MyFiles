@@ -1,4 +1,4 @@
-var ABI = [
+const ABI = [
 {
 "inputs": [
 {
